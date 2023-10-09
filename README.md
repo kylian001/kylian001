@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emelumba chika 
+- 👋 Hi, I’m Emelumba chika Killian 
 - 👀 I’m interested in Full-stack development 
 - 💐 I’m a meta certified front-end developer
 - 👩🏾‍💻 meta back-end development certification still ongoing
