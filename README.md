@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emelumba chika Killian 
-- 👀 I’m interested in Full-stack development 
+- 👀 I’m interested in Cybersecurity
 - 💐 I’m a meta certified front-end developer
 - 👩🏾‍💻 meta back-end development certification still ongoing
 - 🌱 I’m currently improving my skills in Front-end Web development 
